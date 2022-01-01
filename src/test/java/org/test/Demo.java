@@ -45,6 +45,8 @@ public class Demo {
 
 	};
 	}
+	//main using website alone using the code
+	
 	
 	@AfterMethod
 	public void closebrowser() {
